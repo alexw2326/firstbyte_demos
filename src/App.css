@@ -1,0 +1,135 @@
+* {
+    background-color: cornsilk;
+}
+
+.name-title {
+    padding-bottom: 8;
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    letter-spacing: -0.0253m;
+    color: blueviolet;
+}
+
+@media (min-width: 1024px) {
+    .lg\:text-6xl {
+        font-size:3.75rem;
+        line-height:1;
+    }
+}
+
+.bio-content {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+    max-width: 36rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-weight: 300;
+    color: lightcoral;
+    border: 2px dashed red;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.education-title {
+    padding-bottom: 8;
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    letter-spacing: -0.0253m;
+    color: blueviolet;
+}
+
+.education-list{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+    max-width: 36rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-weight: 300;
+    color: lightcoral;
+}
+
+.work-title {
+    padding-bottom: 8;
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    letter-spacing: -0.0253m;
+    color: blueviolet;
+}
+
+.work1 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+    max-width: 36rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-weight: 300;
+    color: lightcoral;
+}
+
+.work2 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+    max-width: 36rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-weight: 300;
+    color: lightcoral;
+}
+
+.skills-title {
+    padding-bottom: 8;
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    letter-spacing: -0.0253m;
+    color: blueviolet;
+}
+
+.skills-list {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+    max-width: 36rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-weight: 300;
+    color: lightcoral;
+}
+
+.projects-title {
+    padding-bottom: 8;
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    letter-spacing: -0.0253m;
+    color: blueviolet;
+}
+
+.project1 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+    max-width: 36rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-weight: 300;
+    color: lightcoral;
+}
+
+.project2 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+    max-width: 36rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-weight: 300;
+    color: lightcoral;
+}
